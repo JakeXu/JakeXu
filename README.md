@@ -22,5 +22,6 @@
   - 数据库相关：MySQL/ PostgreSQL/ SQL Server/ MongoDB等
   - 版本管理、文档和自动化部署工具：Git/ Svn/ PHPDoc/ Phing/ Composer
   - 接口测试：Insomnia/ Postman
+  - 区块链相关：Solidity/ Ethers.js/ Viem/ Wagmi等
 
 
