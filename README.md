@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 - 💬 可以一起探讨下 React
-- 📫 如何找到我：<pinnasky@hotmail.com>
+- 📫 如何找到我：<pinnasky@gmail.com>
 - 🤔 用过一些技术栈
   - 前端基础：JavaScript/ Web Socket/ HTML/ CSS/ Canvas/ SVG/ ECharts等
   - 前端体系：React技术栈/ 微信小程序（Taro）/ Vue技术栈/ Bootstrap/ Flutter等
